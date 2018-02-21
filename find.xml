@@ -4,12 +4,10 @@
     <option name="defaultScopeName" value="Only Non-Built" />
     <option name="fromCursor" value="false" />
     <option name="localRegularExpressions" value="true" />
-    <option name="regularExpressions" value="true" />
     <option name="FIND_ORIGIN" value="entire_scope" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Only Non-Built" />
-    <option name="FILE_MASK" value="*.php" />
+    <option name="FILE_MASK" value="*.tpl" />
     <recentFileMasks>
       <mask>!gps.</mask>
       <mask>!gps.js</mask>
@@ -39,8 +37,8 @@
       <mask>*.js, !app.js</mask>
       <mask>*.js, *.tpl</mask>
       <mask>*.scss</mask>
-      <mask>*.tpl</mask>
       <mask>*.php</mask>
+      <mask>*.tpl</mask>
     </recentFileMasks>
   </component>
 </application>
