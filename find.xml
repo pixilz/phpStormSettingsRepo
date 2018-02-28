@@ -32,12 +32,12 @@
       <mask>!*.css</mask>
       <mask>!*.css, !*.css.map</mask>
       <mask>!*styles.css</mask>
-      <mask>*.js</mask>
       <mask>*.js, !app.js</mask>
       <mask>*.js, *.tpl</mask>
       <mask>*.scss</mask>
       <mask>*.php</mask>
       <mask>*.tpl</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
