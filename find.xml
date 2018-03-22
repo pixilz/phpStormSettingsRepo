@@ -9,6 +9,7 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
       <mask>!gps.</mask>
       <mask>!gps.js</mask>
@@ -38,8 +39,8 @@
       <mask>*.js, *.tpl</mask>
       <mask>*.scss</mask>
       <mask>*.tpl</mask>
-      <mask>*.js</mask>
       <mask>*.php</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
