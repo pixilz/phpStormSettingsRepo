@@ -6,9 +6,7 @@
     <option name="GROUP_BY_FILE_STRUCTURE" value="false" />
   </component>
   <component name="UsageViewSettings">
-    <option name="expanded" value="true" />
-    <option name="filterDuplicatedLine" value="false" />
-    <option name="EXPORT_FILE_NAME" value="C:\Users\AT35\Desktop\addressReport.txt" />
+    <option name="EXPORT_FILE_NAME" value="$USER_HOME$/Desktop/lightClassUsages.txt" />
     <option name="IS_EXPANDED" value="true" />
     <option name="IS_FILTER_DUPLICATED_LINE" value="false" />
     <option name="IS_PREVIEW_USAGES" value="true" />
