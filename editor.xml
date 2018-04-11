@@ -21,6 +21,10 @@
     <pattern case-sensitive="true" pattern="\bUNDONE\b.*" />
     <pattern case-sensitive="true" pattern="\bXXX\b.*" />
     <pattern case-sensitive="true" pattern="\bNOTE\b" />
+    <pattern pattern="\bzotodo\b.*" />
+    <filter name="zotodo's">
+      <pattern index="7" />
+    </filter>
   </component>
   <component name="XmlEditorOptions">
     <option name="showCssInlineColorPreview" value="true" />
