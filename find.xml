@@ -1,14 +1,15 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="Web Sites" />
+    <option name="defaultScopeName" value="Web Sites" />
     <option name="fromCursor" value="false" />
     <option name="localRegularExpressions" value="true" />
     <option name="regularExpressions" value="true" />
     <option name="FIND_ORIGIN" value="entire_scope" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="SEARCH_SCOPE" value="Web Sites" />
+    <option name="FILE_MASK" value="*.js, *.tpl" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -24,5 +25,7 @@
     <mask>*.inc</mask>
     <mask>*.js</mask>
     <mask>*.tpl</mask>
+    <mask>*.js, *.tp</mask>
+    <mask>*.js, *.tpl</mask>
   </component>
 </application>
