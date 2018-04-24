@@ -33,5 +33,6 @@
     <mask>!*.css, !*.scss, !*.lock, !*.json</mask>
     <mask>*Sites*.js</mask>
     <mask>!*.css</mask>
+    <mask>*.php, *.inc</mask>
   </component>
 </application>
