@@ -11,7 +11,7 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Only Product Stuffs" />
-    <option name="FILE_MASK" value="!*.css, !*.lock, !*.json" />
+    <option name="FILE_MASK" value="!*.css, !*.lock, !*.json, !*.jsonp" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -36,5 +36,6 @@
     <mask>!*.css</mask>
     <mask>*.php, *.inc</mask>
     <mask>!*.css, !*.lock, !*.json</mask>
+    <mask>!*.css, !*.lock, !*.json, !*.jsonp</mask>
   </component>
 </application>
