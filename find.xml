@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Web Sites" />
-    <option name="defaultScopeName" value="Web Sites" />
+    <option name="customScope" value="Only Non-Built" />
+    <option name="defaultScopeName" value="Only Non-Built" />
     <option name="fromCursor" value="false" />
     <option name="localRegularExpressions" value="true" />
     <option name="regularExpressions" value="true" />
@@ -10,7 +10,8 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Web Sites" />
+    <option name="SEARCH_SCOPE" value="Only Non-Built" />
+    <option name="FILE_MASK" value="!*.css, !*.lock, !*.json" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -34,5 +35,6 @@
     <mask>*Sites*.js</mask>
     <mask>!*.css</mask>
     <mask>*.php, *.inc</mask>
+    <mask>!*.css, !*.lock, !*.json</mask>
   </component>
 </application>
