@@ -14,10 +14,29 @@
   </action>
   <action id="EditorDeleteLine" />
   <action id="EditorSelectWord" />
+  <action id="ExpandAll">
+    <keyboard-shortcut first-keystroke="ctrl equals" />
+  </action>
+  <action id="ExpandExpandableComponent">
+    <keyboard-shortcut first-keystroke="shift enter" />
+    <keyboard-shortcut first-keystroke="ctrl equals" />
+  </action>
+  <action id="ExpandRegion">
+    <keyboard-shortcut first-keystroke="ctrl equals" />
+  </action>
   <action id="GotoTest" />
+  <action id="Images.Editor.ZoomIn">
+    <keyboard-shortcut first-keystroke="ctrl equals" />
+  </action>
   <action id="Images.ShowThumbnails" />
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="shift ctrl t" />
   </action>
   <action id="RunDashboard.ShowConfigurations" />
+  <action id="ScrollFromSource">
+    <keyboard-shortcut first-keystroke="ctrl add" />
+  </action>
+  <action id="UML.ZoomIn">
+    <keyboard-shortcut first-keystroke="ctrl equals" />
+  </action>
 </keymap>
