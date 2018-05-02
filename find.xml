@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Only Product Stuffs" />
-    <option name="defaultScopeName" value="Only Product Stuffs" />
+    <option name="customScope" value="Web Sites (Only Logical Code)" />
+    <option name="defaultScopeName" value="Web Sites (Only Logical Code)" />
     <option name="fromCursor" value="false" />
     <option name="localRegularExpressions" value="true" />
     <option name="regularExpressions" value="true" />
@@ -10,7 +10,7 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
-    <option name="SEARCH_SCOPE" value="Only Product Stuffs" />
+    <option name="SEARCH_SCOPE" value="Web Sites (Only Logical Code)" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
