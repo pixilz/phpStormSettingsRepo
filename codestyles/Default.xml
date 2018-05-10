@@ -60,8 +60,6 @@
     <option name="QUOTE_IDENTIFIER" value="1" />
     <option name="KEYWORD_CASE" value="0" />
     <option name="TYPE_CASE" value="0" />
-    <option name="IDENTIFIER_CASE" value="1" />
-    <option name="QUOTED_IDENTIFIER_CASE" value="1" />
   </SqlCodeStyleSettings>
   <TypeScriptCodeStyleSettings>
     <option name="ENFORCE_TRAILING_COMMA" value="Remove" />
