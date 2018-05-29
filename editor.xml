@@ -25,6 +25,7 @@
     <pattern case-sensitive="true" pattern="\bXXX\b.*" />
     <pattern case-sensitive="true" pattern="\bNOTE\b" />
     <pattern pattern="\bzotodo\b.*" />
+    <pattern case-sensitive="true" pattern="\bQNOTE\b.*" />
     <filter name="zotodo's">
       <pattern index="7" />
     </filter>
