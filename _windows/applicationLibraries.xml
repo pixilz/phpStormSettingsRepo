@@ -1,0 +1,16 @@
+<application>
+  <component name="libraryTable">
+    <library name="@types/koa" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/npm" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/systemjs" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+  </component>
+</application>
