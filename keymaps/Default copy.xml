@@ -42,6 +42,10 @@
   <action id="ScrollFromSource">
     <keyboard-shortcut first-keystroke="ctrl add" />
   </action>
+  <action id="ShowSettings">
+    <keyboard-shortcut first-keystroke="ctrl alt s" />
+    <keyboard-shortcut first-keystroke="ctrl comma" />
+  </action>
   <action id="UML.ZoomIn">
     <keyboard-shortcut first-keystroke="ctrl equals" />
   </action>

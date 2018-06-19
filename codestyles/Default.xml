@@ -56,8 +56,8 @@
     <option name="NEW_LINE_BEFORE_QUERY_INSIDE_PARENTHESIS" value="true" />
     <option name="NEW_LINE_BEFORE_QUERY_INSIDE_DML" value="true" />
     <option name="INDENT_SELECT_INTO_CLAUSE" value="true" />
-    <option name="WRAP_INSIDE_WHERE" value="2" />
     <option name="WRAP_INSIDE_SET" value="2" />
+    <option name="NEW_LINE_AFTER_SELECT_ITEM" value="false" />
     <option name="QUOTE_IDENTIFIER" value="1" />
     <option name="TYPE_CASE" value="0" />
   </SqlCodeStyleSettings>
@@ -128,6 +128,11 @@
       <option name="CONTINUATION_INDENT_SIZE" value="4" />
       <option name="TAB_SIZE" value="2" />
       <option name="USE_TAB_CHARACTER" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="SQL">
+    <indentOptions>
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
     </indentOptions>
   </codeStyleSettings>
 </code_scheme>
