@@ -1,5 +1,6 @@
 <application>
   <component name="DatabaseSettings" version="3">
+    <option name="page-size" value="5000" />
     <option name="execute-inside-option" value="2" />
     <exec-options>
       <exec-option exec-inside="2" />
