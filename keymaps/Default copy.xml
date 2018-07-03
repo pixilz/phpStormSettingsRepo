@@ -18,6 +18,7 @@
   <action id="EditorCloneCaretBelow">
     <keyboard-shortcut first-keystroke="ctrl alt down" />
   </action>
+  <action id="EditorCodeBlockEnd" />
   <action id="EditorDeleteLine" />
   <action id="EditorSelectWord" />
   <action id="ExpandAll">
@@ -29,6 +30,12 @@
   </action>
   <action id="ExpandRegion">
     <keyboard-shortcut first-keystroke="ctrl equals" />
+  </action>
+  <action id="GotoDeclaration">
+    <keyboard-shortcut first-keystroke="ctrl b" />
+    <mouse-shortcut keystroke="control button1" />
+    <mouse-shortcut keystroke="button2" />
+    <keyboard-shortcut first-keystroke="ctrl close_bracket" />
   </action>
   <action id="GotoTest" />
   <action id="Images.Editor.ZoomIn">
