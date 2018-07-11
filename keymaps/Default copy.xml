@@ -9,6 +9,9 @@
     <keyboard-shortcut first-keystroke="ctrl f4" />
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
+  <action id="ConsoleView.ClearAll">
+    <keyboard-shortcut first-keystroke="shift ctrl alt semicolon" />
+  </action>
   <action id="Editor Redo">
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
@@ -20,6 +23,10 @@
   </action>
   <action id="EditorCodeBlockEnd" />
   <action id="EditorDeleteLine" />
+  <action id="EditorDuplicate" />
+  <action id="EditorDuplicateLines">
+    <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
   <action id="EditorSelectWord" />
   <action id="ExpandAll">
     <keyboard-shortcut first-keystroke="ctrl equals" />
