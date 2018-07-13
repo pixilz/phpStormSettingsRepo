@@ -1,5 +1,6 @@
 <application>
   <component name="UISettings">
+    <option name="ANIMATE_WINDOWS" value="false" />
     <option name="CLOSE_NON_MODIFIED_FILES_FIRST" value="true" />
     <option name="EDITOR_TAB_LIMIT" value="7" />
     <option name="HIDE_TOOL_STRIPES" value="false" />
