@@ -1,6 +1,8 @@
 <application>
   <component name="ExternalResourceManagerImpl">
+    <resource url="http://schema.org/Answer" location="$USER_HOME$/.PhpStorm2018.2/system/extResources/245dc04_Answer.html" />
     <resource url="http://schema.org/Person" location="$USER_HOME$/.PhpStorm2018.2/system/extResources/1b5f379b_Person.html" />
+    <resource url="http://schema.org/Question" location="$USER_HOME$/.PhpStorm2018.2/system/extResources/6087deac_Question.html" />
     <resource url="http://schema.org/Rating" location="$USER_HOME$/.PhpStorm2018.2/system/extResources/1e914de3_Rating.html" />
     <resource url="http://schema.org/Review" location="$USER_HOME$/.PhpStorm2018.2/system/extResources/1eca939e_Review.html" />
     <resource url="https://schema.org/Offer" location="$USER_HOME$/.PhpStorm2018.2/system/extResources/b2dfc413_Offer.html" />
