@@ -34,17 +34,43 @@
     </formatting-settings>
   </DBN-SQL>
   <HTMLCodeStyleSettings>
+    <option name="HTML_ATTRIBUTE_WRAP" value="0" />
+    <option name="HTML_KEEP_BLANK_LINES" value="1" />
+    <option name="HTML_ALIGN_ATTRIBUTES" value="false" />
+    <option name="HTML_ELEMENTS_TO_REMOVE_NEW_LINE_BEFORE" value="" />
+    <option name="HTML_DO_NOT_INDENT_CHILDREN_OF" value="" />
     <option name="HTML_QUOTE_STYLE" value="Single" />
   </HTMLCodeStyleSettings>
   <JSCodeStyleSettings>
     <option name="USE_DOUBLE_QUOTES" value="false" />
     <option name="ENFORCE_TRAILING_COMMA" value="Remove" />
+    <option name="JSX_ATTRIBUTE_VALUE" value="None" />
     <option name="IMPORT_PREFER_ABSOLUTE_PATH" value="TRUE" />
   </JSCodeStyleSettings>
   <PHPCodeStyleSettings>
     <option name="PHPDOC_BLANK_LINES_AROUND_PARAMETERS" value="true" />
   </PHPCodeStyleSettings>
-  <SqlCodeStyleSettings>
+  <SqlCodeStyleSettings version="0">
+    <option name="myVersion" value="0" />
+    <option name="KEYWORD_CASE" value="1" />
+    <option name="TYPE_CASE" value="1" />
+    <option name="QUOTE_IDENTIFIER" value="1" />
+    <option name="SUBQUERY_L_PAR_NL_INSIDE" value="true" />
+    <option name="SET_EL_WRAP" value="0" />
+    <option name="SET_EL_COMMA" value="0" />
+    <option name="SET_ALIGN_EQUAL_SIGN" value="false" />
+    <option name="WITH_EL_WRAP" value="0" />
+    <option name="WITH_EL_COMMA" value="0" />
+    <option name="SELECT_EL_WRAP" value="3" />
+    <option name="SELECT_ALIGN_AS" value="false" />
+    <option name="FROM_EL_WRAP" value="2" />
+    <option name="WHERE_EL_WRAP" value="3" />
+    <option name="WHERE_EL_BOUND" value="2" />
+    <option name="CORTEGE_SPACE_BEFORE_L_PAREN" value="false" />
+    <option name="EXPR_BINARY_OP_ALIGN" value="false" />
+    <option name="EXPR_CASE_WHEN_WRAP" value="false" />
+    <option name="EXPR_CASE_THEN_WRAP" value="true" />
+    <option name="PRIMARY_KEY_NAME_TEMPLATE" value="{table}_{columns}_pk" />
     <option name="ALIGN_AS_IN_SELECT_STATEMENT" value="false" />
     <option name="ALIGN_TYPE_IN_CREATE_STATEMENT" value="false" />
     <option name="ALIGN_TYPE_IN_BLOCK_STATEMENT" value="false" />
@@ -57,14 +83,13 @@
     <option name="NEW_LINE_BEFORE_QUERY_INSIDE_DML" value="true" />
     <option name="INDENT_SELECT_INTO_CLAUSE" value="true" />
     <option name="NEW_LINE_AFTER_SELECT_ITEM" value="false" />
-    <option name="QUOTE_IDENTIFIER" value="1" />
-    <option name="ALIAS_CASE" value="2" />
-    <option name="KEYWORD_CASE" value="1" />
-    <option name="TYPE_CASE" value="1" />
   </SqlCodeStyleSettings>
   <TypeScriptCodeStyleSettings>
     <option name="ENFORCE_TRAILING_COMMA" value="Remove" />
   </TypeScriptCodeStyleSettings>
+  <XML>
+    <option name="XML_ALIGN_ATTRIBUTES" value="false" />
+  </XML>
   <codeStyleSettings language="CSS">
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
