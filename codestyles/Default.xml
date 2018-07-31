@@ -50,22 +50,25 @@
   <PHPCodeStyleSettings>
     <option name="PHPDOC_BLANK_LINES_AROUND_PARAMETERS" value="true" />
   </PHPCodeStyleSettings>
-  <SqlCodeStyleSettings version="0">
-    <option name="myVersion" value="0" />
+  <SqlCodeStyleSettings version="1">
+    <option name="ALIAS_CASE" value="4" />
     <option name="KEYWORD_CASE" value="1" />
     <option name="TYPE_CASE" value="1" />
     <option name="QUOTE_IDENTIFIER" value="1" />
+    <option name="QUERY_EL_LINE" value="101" />
     <option name="SUBQUERY_L_PAR_NL_INSIDE" value="true" />
+    <option name="SUBQUERY_R_PAR_NL_INSIDE" value="true" />
+    <option name="SUBQUERY_INDENT_INSIDE" value="true" />
     <option name="SET_EL_WRAP" value="0" />
     <option name="SET_EL_COMMA" value="0" />
     <option name="SET_ALIGN_EQUAL_SIGN" value="false" />
     <option name="WITH_EL_WRAP" value="0" />
     <option name="WITH_EL_COMMA" value="0" />
-    <option name="SELECT_EL_WRAP" value="3" />
+    <option name="SELECT_KEEP_N_ITEMS_IN_LINE" value="1" />
     <option name="SELECT_ALIGN_AS" value="false" />
     <option name="FROM_EL_WRAP" value="2" />
-    <option name="WHERE_EL_WRAP" value="3" />
-    <option name="WHERE_EL_BOUND" value="2" />
+    <option name="FROM_WRAP_ON" value="true" />
+    <option name="FROM_INDENT_JOIN" value="false" />
     <option name="CORTEGE_SPACE_BEFORE_L_PAREN" value="false" />
     <option name="EXPR_BINARY_OP_ALIGN" value="false" />
     <option name="EXPR_CASE_WHEN_WRAP" value="false" />
