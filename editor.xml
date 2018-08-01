@@ -26,8 +26,12 @@
     <pattern case-sensitive="true" pattern="\bNOTE\b" />
     <pattern pattern="\bzotodo\b.*" />
     <pattern case-sensitive="true" pattern="\bQNOTE\b.*" />
+    <pattern case-sensitive="true" pattern="\bADDPRODUCT\b" />
     <filter name="zotodo's">
       <pattern index="7" />
+    </filter>
+    <filter name="ADDPRODUCT">
+      <pattern index="9" />
     </filter>
   </component>
   <component name="XmlEditorOptions">
