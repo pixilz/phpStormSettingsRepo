@@ -58,7 +58,7 @@
     <option name="QUERY_EL_LINE" value="101" />
     <option name="SUBQUERY_L_PAR_NL_INSIDE" value="true" />
     <option name="SUBQUERY_R_PAR_NL_INSIDE" value="true" />
-    <option name="SUBQUERY_INDENT_INSIDE" value="true" />
+    <option name="SUBQUERY_R_PAR_ALIGN" value="0" />
     <option name="SET_EL_WRAP" value="0" />
     <option name="SET_EL_COMMA" value="0" />
     <option name="SET_ALIGN_EQUAL_SIGN" value="false" />
