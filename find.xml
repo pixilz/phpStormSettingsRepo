@@ -38,7 +38,7 @@
     <mask>*.inc, *.php</mask>
     <mask>*.php, *.inc</mask>
     <mask>*.php, *inc</mask>
-    <mask>*.js</mask>
     <mask>*.tpl</mask>
+    <mask>*.js</mask>
   </component>
 </application>
