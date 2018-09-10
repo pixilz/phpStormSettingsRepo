@@ -70,7 +70,6 @@
     <option name="SELECT_ALIGN_AS" value="false" />
     <option name="FROM_EL_WRAP" value="2" />
     <option name="FROM_WRAP_ON" value="true" />
-    <option name="FROM_INDENT_JOIN" value="false" />
     <option name="CORTEGE_CLOSING" value="1" />
     <option name="EXPR_BINARY_OP_ALIGN" value="false" />
     <option name="EXPR_CASE_WHEN_WRAP" value="false" />
@@ -87,6 +86,10 @@
     <option name="NEW_LINE_BEFORE_QUERY_INSIDE_PARENTHESIS" value="true" />
     <option name="NEW_LINE_BEFORE_QUERY_INSIDE_DML" value="true" />
     <option name="INDENT_SELECT_INTO_CLAUSE" value="true" />
+    <option name="WRAP_INSIDE_CREATE_TABLE" value="5" />
+    <option name="WRAP_INSIDE_ARGUMENT_DEFINITION" value="5" />
+    <option name="WRAP_INSIDE_CALL_EXPRESSION" value="5" />
+    <option name="WRAP_PARENTHESIZED_EXPRESSION_INSIDE_VALUES" value="5" />
     <option name="NEW_LINE_AFTER_SELECT_ITEM" value="false" />
   </SqlCodeStyleSettings>
   <TypeScriptCodeStyleSettings>
