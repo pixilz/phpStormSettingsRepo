@@ -3,6 +3,7 @@
     <data-source source="LOCAL" name="AWS Source" uuid="1f37caf9-b76d-4238-9e5b-8b488a03fdb9">
       <driver-ref>mysql</driver-ref>
       <synchronize>true</synchronize>
+      <schema-control>AUTOMATIC</schema-control>
       <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:mysql://stage.abovetraining.com:3306/</jdbc-url>
       <driver-properties>
@@ -12,21 +13,6 @@
         <property name="characterEncoding" value="utf8" />
         <property name="characterSetResults" value="utf8" />
         <property name="yearIsDateType" value="false" />
-      </driver-properties>
-    </data-source>
-    <data-source source="LOCAL" name="Office Source" uuid="63a4daac-98a2-4c79-aab7-05dab78cf252">
-      <driver-ref>mysql</driver-ref>
-      <synchronize>true</synchronize>
-      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://192.168.168.26:3306</jdbc-url>
-      <driver-properties>
-        <property name="autoReconnect" value="true" />
-        <property name="zeroDateTimeBehavior" value="convertToNull" />
-        <property name="tinyInt1isBit" value="false" />
-        <property name="characterEncoding" value="utf8" />
-        <property name="characterSetResults" value="utf8" />
-        <property name="yearIsDateType" value="false" />
-        <property name="strictUpdates" value="false" />
       </driver-properties>
     </data-source>
   </component>

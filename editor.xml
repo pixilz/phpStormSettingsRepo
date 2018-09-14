@@ -29,6 +29,9 @@
     <filter name="zotodo's">
       <pattern index="7" />
     </filter>
+    <filter name="Bug Filter">
+      <pattern index="3" />
+    </filter>
   </component>
   <component name="XmlEditorOptions">
     <option name="showCssInlineColorPreview" value="true" />
