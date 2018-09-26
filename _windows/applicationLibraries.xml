@@ -1,5 +1,9 @@
 <application>
   <component name="libraryTable">
+    <library name="@types/extjs" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
     <library name="@types/jest" type="javaScript">
       <CLASSES />
       <SOURCES />
@@ -17,6 +21,10 @@
       <SOURCES />
     </library>
     <library name="@types/systemjs" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/zxcvbn" type="javaScript">
       <CLASSES />
       <SOURCES />
     </library>
