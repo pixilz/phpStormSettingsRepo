@@ -11,7 +11,7 @@
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="Web Sites" />
-    <option name="FILE_MASK" value="*.js, *.tpl" />
+    <option name="FILE_MASK" value="*.scss" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -39,7 +39,7 @@
     <mask>*.js</mask>
     <mask>*.tpl</mask>
     <mask>*.tpl, *.js</mask>
-    <mask>*.scss</mask>
     <mask>*.js, *.tpl</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
